@@ -58,7 +58,8 @@ Aspiring Software Engineer with a strong foundation in full-stack web developmen
 - **Restrictive agreements / non-compete / non-solicitation**: No. If a text field is required, enter `N/A`.
 - **Do you have prior formal job experience?**: No, I do not have prior formal job experience.
 - **Salary requirements**: Negotiable. I am open to the company's standard intern compensation.
-- **Summer 2026 availability**: Yes. I am available from May through early August 2026 and I am specifically applying for Summer 2026 internships.
+- **Summer 2026 availability**: Yes. I am available from May through mid-August 2026 and I am specifically applying for Summer 2026 internships.
+- **Internship full-program availability questions**: Answer `Yes` by default for Summer 2026 internship date-range questions, including forms that ask about availability through August 14, 2026, unless my saved materials are explicitly updated to say otherwise.
 - **Current notice period**: Immediately Available
 - **Are you 18 years of age or older?**: Yes
 - **Reason for leaving current role**: N/A - I have not held a prior formal job.
